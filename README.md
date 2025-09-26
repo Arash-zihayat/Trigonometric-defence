@@ -1,4 +1,3 @@
-````markdown
 # 🎮 Trigonometric Defence  
 
 **Gamified Learning with Flutter** ✨  
@@ -46,7 +45,7 @@ Your mission: **apply the right function at the right time** to protect humanity
 - Android Studio or VS Code with Flutter extension  
 
 ### Installation
-```bash
+
 # Clone the repository
 git clone https://github.com/Arash-zihayat/trigonometric-defence.git
 
@@ -58,18 +57,15 @@ flutter pub get
 
 # Run the game
 flutter run
-````
+
 
 ---
 
 ## 🎬 Demo 
 
+![Gameplay Demo](assets/Animation216.gif)
 
 
-```markdown
-![Gameplay Demo](assets/animation216.gif)
-
-```
 
 ---
 
@@ -109,7 +105,5 @@ Created with ❤️ by **Arash Zihayat**
 * LinkedIn: [YourLinkedIn](#)
 * Email: [YourEmail](Arashzihayat1249@gmail.com)
 
----
 
-```
-```
+
